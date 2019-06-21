@@ -13,4 +13,5 @@ Apache 2 License
 
 ## Acknowledgements
 Screenshots made with the help of [App Mockup](https://app-mockup.com)
+
 Favicons made with the help of [Real Favicon Generator](https://realfavicongenerator.net/)
