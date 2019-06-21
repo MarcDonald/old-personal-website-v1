@@ -10,9 +10,6 @@ body, html {
 
 body {
     height: 100%;
-}
-
-.wrapper {
     text-align: center;
 }
 
@@ -78,7 +75,6 @@ body {
     padding: 0;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
-    text-align: center;
 }
 
 .footer-container ul {
