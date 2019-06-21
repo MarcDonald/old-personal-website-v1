@@ -1,0 +1,100 @@
+/*noinspection CssUnknownTarget*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #424242;
+}
+
+body {
+    height: 100%;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.apps {
+    padding: 0;
+    margin: 0;
+}
+
+.apps li {
+    margin: 0.3em 0 3em;
+    list-style-type: none;
+}
+
+.app-header {
+    margin-top: -0.3em;
+    padding-top: 1em;
+    width: 100%;
+    background: #303030;
+}
+
+.apps h1 {
+    color: white;
+    margin: 0;
+}
+
+.apps h2 {
+    color: white;
+    font-weight: normal;
+    font-size: 1em;
+    padding: 0 0.5em 1em 0.5em;
+    margin: 0.4em 0 1em 0;
+}
+
+.apps img {
+    width: 60%;
+    margin: 0 0 0.5em 0;
+}
+
+.apps p {
+    margin: 1em;
+}
+
+.btn-cta {;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background: #FF9700;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1em;
+}
+
+.footer-container {
+    width: 100%;
+    background-color: #212121;
+    padding: 0;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    text-align: center;
+}
+
+.footer-container ul {
+    padding: 0;
+    display: inline-block;
+    list-style-type: none;
+}
+
+.footer-container ul li {
+    text-align: center;
+}
+
+.footer-container ul li p {
+    font-size: 0.8em;
+    color: #FFFFFF80;
+}
+
+.footer-container ul li p a {
+    color: #FFFFFF80;
+}
+
+.footer-list-divider {
+    margin: 0 10px 1px 10px;
+    width: 0.4em;
+    display: none;
+}
