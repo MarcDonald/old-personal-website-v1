@@ -1,6 +1,6 @@
-# MarcDev Website
+# Personal Website
 
-Personal website for showing off my apps
+Personal website for showing off my projects
 
 ## Open Source Licenses
 ### [Google Material Design Icons](https://material.io/tools/icons/)
