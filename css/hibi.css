@@ -1,0 +1,77 @@
+/*noinspection CssUnknownTarget*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #424242;
+}
+
+body {
+    height: 100%;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.hero-main-image {
+    margin-top: 0.8em;
+    margin-right: 4em;
+    width: 24%;
+    height: 24%;
+}
+
+.hero-section h1 {
+    font-size: 6em;
+    margin-top: 50%;
+    margin-bottom: 0.2em;
+    text-align: center;
+}
+
+.hero-section h2 {
+    text-align: center;
+    margin-bottom: 2em;
+    color: #FFFFFFB3;
+}
+
+.hero-section a {;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background: #FF9700;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 3em;
+    padding: 1em 17em;
+}
+
+.scroll-indicator {
+    display: block;
+    text-align: center;
+    margin-top: 11em;
+    color: white;
+}
+
+.scroll-indicator p {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.scroll-indicator img {
+    width: 15%;
+    animation: move 1s infinite alternate;
+}
+
+@keyframes move {
+    0% {
+        transform: translateY(0px);
+    }
+
+    100% {
+        transform: translateY(10px);
+    }
+}
