@@ -321,7 +321,7 @@ body {
     }
 
     .mobile-theme-text h1 {
-        font-size: 3em;
+        font-size: 2.5em;
     }
 
     .light-theme-image .mobile-theme-text {
@@ -346,11 +346,15 @@ body {
     .hero-main-image {
         margin: 0 0 -7em 0;
     }
+
+    .mobile-theme-text h1 {
+        font-size: 2em;
+    }
 }
 
 @media only screen and (max-width: 705px) {
     .mobile-theme-text h1 {
-        font-size: 2em;
+        font-size: 1.5em;
     }
 }
 
@@ -372,6 +376,10 @@ body {
         background-size: 20em;
     }
 
+    .mobile-theme-text h1 {
+        font-size: 1.4em;
+    }
+
     .link-section h1 {
         margin-top: 1.5em;
         font-size: 2em;
@@ -384,7 +392,7 @@ body {
 
 @media only screen and (max-width: 540px) {
     .mobile-theme-text h1 {
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 
     .dark-theme-image .mobile-theme-text h1 {
@@ -412,12 +420,8 @@ body {
         background-size: 15em;
     }
 
-    .dark-theme-image .mobile-theme-text h1 {
-        display: none;
-    }
-
-    .light-theme-image .mobile-theme-text h1 {
-        display: none
+    .mobile-theme-text h1 {
+        font-size: 0.8em;
     }
 
     .link-section ul li {
