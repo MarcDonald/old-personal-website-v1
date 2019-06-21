@@ -27,10 +27,17 @@ body {
 }
 
 .app-header {
-    margin-top: -0.3em;
+    margin: -0.3em 0 1em 0;
     padding-top: 1em;
     width: 100%;
     background: #303030;
+    display: flex;
+    justify-content: center;
+}
+
+.apps .app-header img {
+    height: 100px;
+    width: 100px;
 }
 
 .apps h1 {
@@ -41,9 +48,9 @@ body {
 .apps h2 {
     color: white;
     font-weight: normal;
-    font-size: 1em;
-    padding: 0 0.5em 1em 0.5em;
-    margin: 0.4em 0 1em 0;
+    font-size: 0.9em;
+    padding: 0 0.5em 0 0.5em;
+    margin-top: 0.4em;
 }
 
 .apps img {
