@@ -18,7 +18,7 @@ body {
     display: flex;
     justify-content: center;
     color: white;
-    padding: 1.5em 0 1.5em 0;
+    padding: 1.5em 0 2em 0;
 }
 
 .hero-text {
@@ -29,8 +29,8 @@ body {
 .hero-main-image {
     margin-top: 0.8em;
     margin-right: 4em;
-    width: 25em;
-    height: 24%;
+    width: 26em;
+    height: 25%;
 }
 
 .hero-section h1 {
