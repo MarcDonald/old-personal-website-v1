@@ -1,6 +1,8 @@
-# Personal Website
+# Old Personal Website (2018-2022)
 
-Personal website for showing off my projects
+My original personal website for showing off my projects.
+Kept up for archival purposes.
+Available at [v1.marcdonald.com](https://v1.marcdonald.com)
 
 ## Open Source Licenses
 ### [Google Material Design Icons](https://material.io/tools/icons/)
@@ -18,7 +20,7 @@ Favicons made with the help of [Real Favicon Generator](https://realfavicongener
 
 ## License
 ```   
-Copyright 2019 Marc Donald
+Copyright 2022 Marc Donald
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
